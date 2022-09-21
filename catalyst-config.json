@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "datapopulate",
+		"stack": "node16",
+		"type": "basicio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
